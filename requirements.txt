@@ -1,15 +1,15 @@
 # 🚀 Dependências principais
-fastapi==0.109.1
-uvicorn==0.27.0
-python-multipart==0.0.6
+fastapi
+uvicorn
+python-multipart
 
 # 📄 Extração de PDF
-pymupdf==1.23.25  # (fitz)
+pymupdf  # (fitz)
 
 # ✂️ Sumarização e NLP
-sumy==0.11.0
-nltk==3.8.1
-numpy==1.26.0  # (requerido pelo sumy)
+sumy
+nltk
+numpy  # (requerido pelo sumy)
 
 # 🗃️ Banco de dados (SQLite)
-sqlalchemy==2.0.25
+sqlalchemy
